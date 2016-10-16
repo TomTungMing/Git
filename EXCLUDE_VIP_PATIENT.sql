@@ -1,6 +1,6 @@
 ﻿I just practice this tool.
 I try to modify the document.
- 
+The third time to modify it. 
 --  STEPS to create EXCLUDE_VIP set –-
 --		Reserved Patients - VIP and test
 --		Reserved Cases
